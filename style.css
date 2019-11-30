@@ -1,23 +1,14 @@
-h1 { font-size: 1rem; }
 
-@media (min-width: 576px) {
-    h1 { font-size: 1.25rem; }
-}
-@media (min-width: 768px) {
-    h1 { font-size: 1.5rem; }
-}
-@media (min-width: 992px) {
-    h1 { font-size: 1.75rem; }
-}
-@media (min-width: 1200px) {
-    h1 { font-size: 2rem; }
-}
 body {
   background-image: url(https://images.unsplash.com/photo-1498671546682-94a232c26d17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1374&q=80);
+  color: white;
 }
 
-#weight {
+
+
+/* #weight {
+  background color: white;
 color: #e0eff2;
-font: italic bold 100px Georgia, Serif;
-text-shadow: -4px 3px 0 green, -14px 7px 0 #0a0e27;
-}
+ font: italic bold 100px Georgia, Serif;
+ text-shadow: -4px 3px 0 green, -14px 7px 0 #0a0e27;
+} */
