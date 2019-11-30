@@ -1,0 +1,9 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1498671546682-94a232c26d17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1374&q=80);
+}
+
+#weight {
+color: #e0eff2;
+font: italic bold 100px Georgia, Serif;
+text-shadow: -4px 3px 0 green, -14px 7px 0 #0a0e27;
+}
